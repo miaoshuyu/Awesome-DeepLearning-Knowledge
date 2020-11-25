@@ -1,4 +1,4 @@
-# Awesome-CV-Knoweledge
+# Awesome-DeepLearning-Knoweledge
 #### 深度学习
 * 代码写一下交叉熵损失函数：  
     https://blog.csdn.net/b1055077005/article/details/100152102  
