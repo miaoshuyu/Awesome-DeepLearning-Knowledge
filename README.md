@@ -67,7 +67,11 @@ https://www.cnblogs.com/gatherstars/p/6084696.html
 * 梯度消失和爆炸以及解决方法 
   https://github.com/GYee/CV_interviews_Q-A/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/11_%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E5%92%8C%E7%88%86%E7%82%B8%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md
   https://blog.csdn.net/qq_17130909/article/details/80582226
-* CNN在图像上表现好的原因 https://zhuanlan.zhihu.com/p/31727402
+* CNN在图像上表现好的原因
+  https://zhuanlan.zhihu.com/p/31727402
+* CNN的参数量及FLOPs如何计算
+  https://www.zhihu.com/question/65305385
+* 
 
 ----
 #### 基础模型
