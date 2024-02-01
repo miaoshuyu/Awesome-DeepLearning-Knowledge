@@ -26,8 +26,10 @@ https://blog.csdn.net/u012370185/article/details/98623718
 * BN跨卡同步  
 https://niecongchong.github.io/2019/08/17/Multi-GPU%E4%B8%8B%E7%9A%84Batch-normalize%E8%B7%A8%E5%8D%A1%E5%90%8C%E6%AD%A5/
 
-* BN解决过拟合   
+* BN解决过拟合和梯度消失   
 https://blog.csdn.net/qq_23150675/article/details/79452685
+
+https://blog.csdn.net/qq_26598445/article/details/81950116
 
 * layer Normalization介绍：      
    https://blog.csdn.net/liuxiao214/article/details/81037416
@@ -55,13 +57,17 @@ https://www.cnblogs.com/itmorn/p/11254448.html
 * Focal Loss与GHM 解决样本不平衡利器     
 https://zhuanlan.zhihu.com/p/80594704
 
-
 * 感受野     
 https://www.cnblogs.com/shine-lee/p/12069176.html   
 https://blog.csdn.net/Kerrwy/article/details/82430530
 
 * ROC和AUC    
 https://www.cnblogs.com/gatherstars/p/6084696.html
+
+* 梯度消失和爆炸以及解决方法 
+  https://github.com/GYee/CV_interviews_Q-A/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/11_%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E5%92%8C%E7%88%86%E7%82%B8%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md
+  https://blog.csdn.net/qq_17130909/article/details/80582226
+* CNN在图像上表现好的原因 https://zhuanlan.zhihu.com/p/31727402
 
 ----
 #### 基础模型
