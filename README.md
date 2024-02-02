@@ -16,7 +16,6 @@
   https://mp.weixin.qq.com/s?__biz=MzU1OTAzMjE2OA==&mid=2247485271&idx=2&sn=5545f065a26efb928e410d8608053aff&chksm=fc1c3550cb6bbc460f0fe6dfa5d98097c54fe39975e5d7d32aeb58ccccbda5c32d80158f94d5&scene=27
 
 * Relu激活函数相关
-
   https://github.com/GYee/CV_interviews_Q-A/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/07_ReLU%E5%87%BD%E6%95%B0%E5%9C%A80%E5%A4%84%E4%B8%8D%E5%8F%AF%E5%AF%BC%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%83%BD%E7%94%A8.md
 
 * BN的公式及其含义作用等：      
@@ -29,7 +28,6 @@
   https://niecongchong.github.io/2019/08/17/Multi-GPU%E4%B8%8B%E7%9A%84Batch-normalize%E8%B7%A8%E5%8D%A1%E5%90%8C%E6%AD%A5/
 
 * BN解决过拟合和梯度消失   
-
   https://blog.csdn.net/qq_26598445/article/details/81950116
 
 * layer Normalization介绍：      
@@ -39,7 +37,6 @@
   https://blog.csdn.net/qq_42722197/article/details/125688510
 
 * Dropout训练和测试不同     
-
   http://www.360doc.com/content/18/1203/22/54525756_799102767.shtml
 
 * Dropout和dropconnect的区别  
@@ -55,33 +52,27 @@
   https://www.zhihu.com/question/65305385
 
 * CNN与互相关
-
   https://zhuanlan.zhihu.com/p/33194385
 
 * 1x1卷积
-
   https://mp.weixin.qq.com/s/DKR6gyXmL6qAtRL9IQRlvg
 
 * 池化层（pooling）的反向传播（ReLu）        
   https://blog.csdn.net/qq_21190081/article/details/72871704
 
 * CNN各种卷积类型
-
   https://github.com/GYee/CV_interviews_Q-A/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/48_%E5%90%84%E7%A7%8D%E5%8D%B7%E7%A7%AF%E6%96%B9%E5%BC%8F%E4%B8%B2%E8%AE%B2.md
 
 * CNN卷积及代码实现
-
   https://blog.csdn.net/Biyoner/article/details/88916247
 
 * F1-score的好处
-
   https://www.cnblogs.com/walter-xh/p/11140715.html
 
 * ROC和AUC    
   https://www.cnblogs.com/gatherstars/p/6084696.html
 
 * 过拟合与欠拟合及方差偏差
-
   https://www.jianshu.com/p/f2489ccc14b4
 
 * 深度学习中图像为什么要归一化？
@@ -125,7 +116,7 @@
 * SeNet   
   https://zhuanlan.zhihu.com/p/65459972
 
-* MobileNets系列     
+* MobileNets系列 深度可分离卷积
   https://www.cnblogs.com/dengshunge/p/11334640.html
 
 * ShuffleNet系列    
@@ -135,7 +126,10 @@
   https://zhuanlan.zhihu.com/p/49465950
 
 * EfficientNet       
-  https://blog.csdn.net/u014380165/article/details/90812249
+
+  https://zhuanlan.zhihu.com/p/273234587
+
+  https://blog.csdn.net/weixin_38346042/article/details/125813186
 
 * GCNet and Non-local    
   https://zhuanlan.zhihu.com/p/64988633
@@ -151,6 +145,8 @@
 
 * GCN    
   https://zhuanlan.zhihu.com/p/107162772
+
+  https://blog.csdn.net/weixin_42052081/article/details/89108966
 
 ----
 
