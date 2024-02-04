@@ -122,6 +122,10 @@
   https://github.com/GYee/CV_interviews_Q-A/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/11_%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E5%92%8C%E7%88%86%E7%82%B8%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md
   https://blog.csdn.net/qq_17130909/article/details/80582226
 
+* 模型参数初始化方法详解
+
+  https://zhuanlan.zhihu.com/p/630487545
+
 ----
 
 #### 基础模型
