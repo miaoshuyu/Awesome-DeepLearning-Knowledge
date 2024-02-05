@@ -12,6 +12,8 @@
 * 常见的损失函数:    
   https://mp.weixin.qq.com/s/C45DxRB-n4zuxpzWrHdCzg
 
+  https://zhuanlan.zhihu.com/p/401010037 pytorch
+
 * sigmoid导数的大小范围：     
   https://mp.weixin.qq.com/s?__biz=MzU1OTAzMjE2OA==&mid=2247485271&idx=2&sn=5545f065a26efb928e410d8608053aff&chksm=fc1c3550cb6bbc460f0fe6dfa5d98097c54fe39975e5d7d32aeb58ccccbda5c32d80158f94d5&scene=27
 
@@ -126,6 +128,40 @@
 
   https://zhuanlan.zhihu.com/p/630487545
 
+-----
+
+#### 多模态
+
+* MoCo、对比学习综述（MoCov1/v2/v3、SimCLR v1/v2、DINO等）
+
+  https://zhuanlan.zhihu.com/p/639246058
+
+* CLIP和改进工作串讲（LSeg、GroupViT、VLiD、 GLIPv1、 GLIPv2、CLIPasso）
+
+  https://zhuanlan.zhihu.com/p/639247603
+
+* 万字长文谈多模态预训练（UNITER、ViLBERT、CLIP、ALBEF、BLIP、METER）
+
+  https://zhuanlan.zhihu.com/p/539906825
+
+  https://zhuanlan.zhihu.com/p/412126626 《多模态预训练模型最新综述》
+
+  https://blog.csdn.net/m0_38007695/article/details/107608162 《预训练 Bert 【 VilBERT，LXMERT，VisualBERT，Unicoder-VL，VL-BERT，ImageBERT 】》
+
+  https://blog.csdn.net/m0_56533033/article/details/126071772 ViLBERT，VL-BERT，VisualBERT
+
+  https://zhuanlan.zhihu.com/p/369733979 ViLT：最简单的多模态Transformer
+
+* PSP多模态 -- Alibaba电商同款相似款搜索模型(WWW23录用)
+
+  https://zhuanlan.zhihu.com/p/650496676
+
+* 大模型超详细解读 (目录) 
+
+  https://zhuanlan.zhihu.com/p/625926419
+
+  https://zhuanlan.zhihu.com/p/348593638 Vision Transformer , 通用 Vision Backbone 超详细解读 (目录)
+
 ----
 
 #### 基础模型
@@ -171,7 +207,7 @@
 
 ----
 
-#### 目标检测
+#### 目标检测及分割
 
 * NMS   
   https://zhuanlan.zhihu.com/p/54709759
@@ -187,6 +223,8 @@
 
 * 解决小目标检测！多尺度方法汇总  
   https://zhuanlan.zhihu.com/p/141954282
+
+  https://mp.weixin.qq.com/s/OBOEQTp0-76TlHsAucOEGQ 
 
 * 密集物体检测   
   https://blog.csdn.net/weixin_41876817/article/details/83054525
@@ -204,6 +242,9 @@
 * YoloV3里面darknet53模型特点，模型里面下采样用的什么：
   https://blog.csdn.net/qq_37541097/article/details/81214953
 
+* YOLOv2、v3使用K-means聚类计算anchor boxes的具体方法
+  https://blog.csdn.net/fu18946764506/article/details/89485493
+
 * SSD模型详解   
   https://blog.csdn.net/baidu_41848695/article/details/100023053
 
@@ -218,8 +259,16 @@
   https://blog.csdn.net/xiaotian127/article/details/104661466
   https://zhuanlan.zhihu.com/p/138824387
 
-* YOLOv2、v3使用K-means聚类计算anchor boxes的具体方法
-  https://blog.csdn.net/fu18946764506/article/details/89485493
+* 关于anchor分配相关论文：
+
+  https://zhuanlan.zhihu.com/p/563939064
+  https://mp.weixin.qq.com/s/-ir_kdOOBmotptJ0JVhunA
+
+* 目标检测中的Anchor详解 
+
+  https://www.cnblogs.com/wangguchangqing/p/12012508.html#autoid-1-0-0
+
+  https://zhuanlan.zhihu.com/p/63024247
 
 * FPN的特征在不同层怎么处理的？    
   https://blog.csdn.net/weixin_40683960/article/details/79055537
@@ -228,9 +277,6 @@
   https://zhuanlan.zhihu.com/p/37998710
   https://blog.csdn.net/wangdongwei0/article/details/83110305
 
-* Cascade R-CNN 详细解读   
-  https://zhuanlan.zhihu.com/p/42553957
-
 * ROI pooling / ROI Align / ROI Wraping  
   https://www.cnblogs.com/wangyong/p/8523814.html
 
@@ -238,53 +284,38 @@
   https://blog.csdn.net/thisiszdy/article/details/89058768
   https://zhuanlan.zhihu.com/p/73138740
 
-* FCOS的FPN分配公式、CenterNess的作用？   
+* Cascade R-CNN 详细解读   
+  https://zhuanlan.zhihu.com/p/42553957
+
+* FCOS、FPN分配公式、CenterNess的作用？   
+
+  https://blog.csdn.net/weixin_45377629/article/details/124844405
+
   https://zhuanlan.zhihu.com/p/63868458       
+
   https://blog.csdn.net/WZZ18191171661/article/details/89258086
 
-* CornerNet    
-  https://blog.csdn.net/u014380165/article/details/83032273
+* 基于关键点的目标检测    
+  https://www.cnblogs.com/yumoye/p/11029465.html （CornerNet）  
+  https://zhuanlan.zhihu.com/p/66048276   （CenterNet）
 
-* CenterNet   
-  https://zhuanlan.zhihu.com/p/66048276   
-
-* Cornernet/Centernet代码里面GT heatmap   
-  https://zhuanlan.zhihu.com/p/96856635
-
-* RepPoints    
-  https://zhuanlan.zhihu.com/p/64522910
+  https://zhuanlan.zhihu.com/p/96856635 （Cornernet/Centernet代码里面GT heatmap）
+  https://zhuanlan.zhihu.com/p/64522910 （RepPoints）
 
 * EfficientDet  
   https://zhuanlan.zhihu.com/p/129776902
 
-* End-to-End Object Detection with Transformers-DETR    
-  https://zhuanlan.zhihu.com/p/144974069
+* DETR相关论文 
+  https://zhuanlan.zhihu.com/p/641756060 https://zhuanlan.zhihu.com/p/144974069 （DETR）
 
-* 目标检测番外篇(2)_mAP   
+  https://zhuanlan.zhihu.com/p/372116181 (deformable DETR)
+
+  https://zhuanlan.zhihu.com/p/540786844 https://zhuanlan.zhihu.com/p/562188687（DINO）
+
+* 目标检测指标 mAP 
   https://zhuanlan.zhihu.com/p/48992451
 
-* 目标检测中的多尺度
-
-  https://mp.weixin.qq.com/s/OBOEQTp0-76TlHsAucOEGQ 
-
-* 目标检测 PR曲线
-
-   https://blog.csdn.net/qq_41994006/article/details/81051150
-
-* 关于anchor分配相关论文：
-
-  https://zhuanlan.zhihu.com/p/563939064
-  https://mp.weixin.qq.com/s/-ir_kdOOBmotptJ0JVhunA
-
-* DINO论文精读，DETR的改进（Paper With Code上的SOTA）
-
-  https://zhuanlan.zhihu.com/p/562188687
-
--------
-
-#### 视觉其他
-
-* 全卷积神经网络FCN
+* 全卷积分割神经网络FCN
 
   https://zhuanlan.zhihu.com/p/145849717
 
@@ -348,7 +379,7 @@
   https://blog.csdn.net/qq_39709535/article/details/80804003
 
 * Pytorch Hook    
-  https://zhuanlan.zhihu.com/p/75054200
+  https://blog.csdn.net/weixin_41555165/article/details/127454644
 
 * pytorch中的广播机制   
 
