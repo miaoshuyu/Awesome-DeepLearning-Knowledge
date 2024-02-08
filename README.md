@@ -205,6 +205,12 @@
 
   https://blog.csdn.net/weixin_42052081/article/details/89108966
 
+* 深度解读：RepVGG
+
+  https://zhuanlan.zhihu.com/p/353697121
+
+  https://zhuanlan.zhihu.com/p/352239591
+
 ----
 
 #### 目标检测及分割
@@ -233,11 +239,14 @@
   https://blog.csdn.net/yuanlulu/article/details/89319839
 
 * Yolov3&Yolov4&Yolov5       
-  https://zhuanlan.zhihu.com/p/143747206
+  https://zhuanlan.zhihu.com/p/143747206 yolov3-v4
 
+  https://zhuanlan.zhihu.com/p/172121380 yolov5
+
+  https://zhuanlan.zhihu.com/p/668516241?utm_id=0 （yolov8）
   https://blog.csdn.net/qq_40716944/article/details/114822515（v1-v7）
 
-  https://zhuanlan.zhihu.com/p/668516241?utm_id=0 
+  https://blog.csdn.net/qq_38585926/article/details/130055670 （v1-v8）
 
 * YoloV3里面darknet53模型特点，模型里面下采样用的什么：
   https://blog.csdn.net/qq_37541097/article/details/81214953
