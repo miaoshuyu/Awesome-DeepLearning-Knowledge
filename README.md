@@ -28,7 +28,7 @@
   https://blog.csdn.net/qq_35985044/article/details/104609986  
 
 * BN跨卡同步  
-  https://niecongchong.github.io/2019/08/17/Multi-GPU%E4%B8%8B%E7%9A%84Batch-normalize%E8%B7%A8%E5%8D%A1%E5%90%8C%E6%AD%A5/
+  https://blog.csdn.net/bestrivern/article/details/103754931
 
 * BN解决过拟合和梯度消失   
 
@@ -49,6 +49,8 @@
 * Dropout训练和测试不同     
 
   http://www.360doc.com/content/18/1203/22/54525756_799102767.shtml
+
+  https://blog.csdn.net/weixin_42127358/article/details/125432885
 
 * Dropout和dropconnect的区别  
   https://blog.51cto.com/u_11908275/6405405
@@ -114,6 +116,10 @@
 * Focal Loss与GHM 解决样本不平衡利器     
   https://zhuanlan.zhihu.com/p/80594704
 
+  https://zhuanlan.zhihu.com/p/80594704 cross-entropy/focal-loss/GHM  
+
+  https://www.cnblogs.com/ymjyqsx/p/9508664.html Focal loss与 OHEM    
+
 * 感受野     
   https://www.cnblogs.com/shine-lee/p/12069176.html   
   https://blog.csdn.net/Kerrwy/article/details/82430530
@@ -142,7 +148,7 @@
 
 * 万字长文谈多模态预训练（UNITER、ViLBERT、CLIP、ALBEF、BLIP、METER）
 
-  https://zhuanlan.zhihu.com/p/539906825
+  https://zhuanlan.zhihu.com/p/539906825 简短汇总
 
   https://zhuanlan.zhihu.com/p/412126626 《多模态预训练模型最新综述》
 
@@ -155,6 +161,8 @@
 * PSP多模态 -- Alibaba电商同款相似款搜索模型(WWW23录用)
 
   https://zhuanlan.zhihu.com/p/650496676
+
+  https://zhuanlan.zhihu.com/p/145381066 FashionBert
 
 * 大模型超详细解读 (目录) 
 
@@ -211,6 +219,13 @@
 
   https://zhuanlan.zhihu.com/p/352239591
 
+* VIT论文
+  * https://zhuanlan.zhihu.com/p/340149804 transformer详解
+  * https://zhuanlan.zhihu.com/p/627025622 VIT详解
+  * https://zhuanlan.zhihu.com/p/535964325 ViT(Vision Transformer)的改进算法合集
+  * https://zhuanlan.zhihu.com/p/367111046 图解Swin
+  * https://zhuanlan.zhihu.com/p/430047908 Swin Transformer解读
+
 ----
 
 #### 目标检测及分割
@@ -221,12 +236,6 @@
 * SmoothL1/IoU/GIoU/DIoU/CIoU Loss   
   https://zhuanlan.zhihu.com/p/104236411
 
-* cross-entropy/focal-loss/GHM  
-  https://zhuanlan.zhihu.com/p/80594704
-
-* Focal loss与 OHEM    
-  https://www.cnblogs.com/ymjyqsx/p/9508664.html
-
 * 解决小目标检测！多尺度方法汇总  
   https://zhuanlan.zhihu.com/p/141954282
 
@@ -236,9 +245,7 @@
   https://blog.csdn.net/weixin_41876817/article/details/83054525
 
 * Yolo系列  
-  https://blog.csdn.net/yuanlulu/article/details/89319839
-
-* Yolov3&Yolov4&Yolov5       
+  https://blog.csdn.net/yuanlulu/article/details/89319839 v1-v3
   https://zhuanlan.zhihu.com/p/143747206 yolov3-v4
 
   https://zhuanlan.zhihu.com/p/172121380 yolov5
@@ -287,11 +294,9 @@
   https://blog.csdn.net/wangdongwei0/article/details/83110305
 
 * ROI pooling / ROI Align / ROI Wraping  
-  https://www.cnblogs.com/wangyong/p/8523814.html
-
-* ROI align的反向传播？
-  https://blog.csdn.net/thisiszdy/article/details/89058768
-  https://zhuanlan.zhihu.com/p/73138740
+  https://www.cnblogs.com/wangyong/p/8523814.html  历史
+  https://blog.csdn.net/thisiszdy/article/details/89058768 有反向传播
+  https://zhuanlan.zhihu.com/p/73138740 有图片
 
 * Cascade R-CNN 详细解读   
   https://zhuanlan.zhihu.com/p/42553957
@@ -300,9 +305,7 @@
 
   https://blog.csdn.net/weixin_45377629/article/details/124844405
 
-  https://zhuanlan.zhihu.com/p/63868458       
-
-  https://blog.csdn.net/WZZ18191171661/article/details/89258086
+  https://zhuanlan.zhihu.com/p/63868458      
 
 * 基于关键点的目标检测    
   https://www.cnblogs.com/yumoye/p/11029465.html （CornerNet）  
@@ -317,7 +320,7 @@
 * DETR相关论文 
   https://zhuanlan.zhihu.com/p/641756060 https://zhuanlan.zhihu.com/p/144974069 （DETR）
 
-  https://zhuanlan.zhihu.com/p/372116181 (deformable DETR)
+  https://zhuanlan.zhihu.com/p/372116181   https://zhuanlan.zhihu.com/p/561191638 (deformable DETR)
 
   https://zhuanlan.zhihu.com/p/540786844 https://zhuanlan.zhihu.com/p/562188687（DINO）
 
@@ -326,7 +329,7 @@
 
 * 全卷积分割神经网络FCN
 
-  https://zhuanlan.zhihu.com/p/145849717
+  https://zhuanlan.zhihu.com/p/145849717 语义分割
 
   https://www.coonote.com/note/fcn.html
 
